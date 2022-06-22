@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.5515625" />
+        <entry key="app/src/main/res/drawable/shape_rectangle_8_8d92a3.xml" value="0.33489583333333334" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2629757785467128" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/dialog_loader.xml" value="0.26038500506585616" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.5354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.26038500506585616" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home_new_taste.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home_popular.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home_recomended.xml" value="0.26038500506585616" />
+        <entry key="app/src/main/res/layout/fragment_order.xml" value="0.26038500506585616" />
+        <entry key="app/src/main/res/layout/fragment_payment.xml" value="0.39427083333333335" />
+        <entry key="app/src/main/res/layout/fragment_payment_success.xml" value="0.39427083333333335" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.19174265450861194" />
+        <entry key="app/src/main/res/layout/fragment_profile_account.xml" value="0.5354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_profile_food_market.xml" value="0.39427083333333335" />
+        <entry key="app/src/main/res/layout/fragment_signin.xml" value="0.3046875" />
+        <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.31875" />
+        <entry key="app/src/main/res/layout/fragment_signup_address.xml" value="0.31875" />
+        <entry key="app/src/main/res/layout/fragment_signup_success.xml" value="0.5635416666666667" />
+        <entry key="app/src/main/res/layout/item_home_horizontal.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_home_vertical.xml" value="0.15526849037487336" />
+        <entry key="app/src/main/res/layout/item_menu_profile.xml" value="0.5354166666666667" />
+        <entry key="app/src/main/res/layout/layout_toolbar.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.5354166666666667" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.15526849037487336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
